@@ -1,0 +1,6 @@
+
+ERROR:root:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "k:\django\pythonlogging.py", line 31, in <module>
+    y=int(input("enter second number: "))
+ValueError: invalid literal for int() with base 10: 'ten'

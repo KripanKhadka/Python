@@ -1,0 +1,7 @@
+Tuesday September 08/09/2026 02:21:31 PM :INFO : root :Process Started
+Tuesday September 08/09/2026 02:21:35 PM :ERROR : root :invalid literal for int() with base 10: 'two'
+Traceback (most recent call last):
+  File "k:\django\pythonlogging.py", line 31, in <module>
+    y=int(input("enter second number: "))
+ValueError: invalid literal for int() with base 10: 'two'
+Tuesday September 08/09/2026 02:21:35 PM :INFO : root :Process Completed
